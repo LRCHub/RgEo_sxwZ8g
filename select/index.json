@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "There She Goes (Official Video)",
+  "base_artist": "Taio Cruz",
+  "createdAt": "2026-02-09T11:40:15.820730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There She Goes Again",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/01_There_She_Goes_Again_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "There She Goes Again",
+      "artist": "The Velvet Underground & Nico",
+      "has_synced": true,
+      "path": "select/02_There_She_Goes_Again_The_Velvet_Underground_&_Nico.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "The La's",
+      "has_synced": true,
+      "path": "select/03_There_She_Goes_The_La's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "Babyshambles",
+      "has_synced": true,
+      "path": "select/04_There_She_Goes_Babyshambles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "There She Goes Again",
+      "artist": "King Princess",
+      "has_synced": true,
+      "path": "select/05_There_She_Goes_Again_King_Princess.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "Good Charlotte",
+      "has_synced": true,
+      "path": "select/06_There_She_Goes_Good_Charlotte.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "There She Goes Again",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/07_There_She_Goes_Again_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "Sixpence None the Richer",
+      "has_synced": false,
+      "path": "select/08_There_She_Goes_Sixpence_None_the_Richer.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": true,
+      "path": "select/09_There_She_Goes_Ziggy_Marley_&_The_Melody_Makers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "There She Goes Again - Live",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/10_There_She_Goes_Again_-_Live_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "Taio Cruz feat. Pitbull",
+      "has_synced": true,
+      "path": "select/11_There_She_Goes_Taio_Cruz_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "Pitbull ft. Taio Cruz",
+      "has_synced": true,
+      "path": "select/12_There_She_Goes_Pitbull_ft._Taio_Cruz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "There She Goes",
+      "artist": "The LA's",
+      "has_synced": true,
+      "path": "select/13_There_She_Goes_The_LA's.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "There She Goes, My Beautiful World",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/14_There_She_Goes,_My_Beautiful_World_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "There She Goes, My Beautiful World",
+      "artist": "Nick Cave & The Bad Seeds",
+      "has_synced": true,
+      "path": "select/15_There_She_Goes,_My_Beautiful_World_Nick_Cave_&_The_Bad_Seeds.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "There She Goes Again (Live at the Matrix, November 1969)",
+      "artist": "The Velvet Underground",
+      "has_synced": false,
+      "path": "select/16_There_She_Goes_Again_(Live_at_the_Matrix,_November_1969)_The_Velvet_Underground.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "There She Goes",
+      "artist": "Taio Cruz",
+      "has_synced": false,
+      "path": "select/pl_01_There_She_Goes_Taio_Cruz.txt"
+    }
+  ]
+}
